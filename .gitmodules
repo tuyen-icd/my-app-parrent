@@ -1,0 +1,3 @@
+[submodule "my-app-childrent-tets"]
+	path = my-app-childrent-tets
+	url = https://github.com/tuyen-icd/my-app-childrent
